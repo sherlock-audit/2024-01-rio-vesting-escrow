@@ -8,3 +8,11 @@
 # Q&A
 
 # Audit scope
+
+
+[rio-vesting-escrow @ cd1601bb2862fdaebe3196689176b384f1324c4c](https://github.com/rio-org/rio-vesting-escrow/tree/cd1601bb2862fdaebe3196689176b384f1324c4c)
+- [rio-vesting-escrow/src/VestingEscrow.sol](rio-vesting-escrow/src/VestingEscrow.sol)
+- [rio-vesting-escrow/src/VestingEscrowFactory.sol](rio-vesting-escrow/src/VestingEscrowFactory.sol)
+- [rio-vesting-escrow/src/adaptors/OZVotingAdaptor.sol](rio-vesting-escrow/src/adaptors/OZVotingAdaptor.sol)
+
+
