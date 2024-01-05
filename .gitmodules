@@ -1,0 +1,9 @@
+[submodule "rio-vesting-escrow/lib/forge-std"]
+	path = rio-vesting-escrow/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "rio-vesting-escrow/lib/openzeppelin-contracts"]
+	path = rio-vesting-escrow/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "rio-vesting-escrow/lib/solady"]
+	path = rio-vesting-escrow/lib/solady
+	url = https://github.com/vectorized/solady
